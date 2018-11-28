@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30491" started-at="2018-10-25T17:15:23Z" finished-at="2018-10-25T17:15:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30491" started-at="2018-10-25T17:15:23Z" finished-at="2018-10-25T17:15:53Z">
+      <class name="Test.Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.Test@598067a5]" name="setup" is-config="true" duration-ms="12749" started-at="2018-10-25T17:15:23Z" finished-at="2018-10-25T17:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Register()[pri:1, instance:Test.Test@598067a5]" name="Register" duration-ms="11198" started-at="2018-10-25T17:15:35Z" finished-at="2018-10-25T17:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Login()[pri:2, instance:Test.Test@598067a5]" name="Login" duration-ms="4470" started-at="2018-10-25T17:15:47Z" finished-at="2018-10-25T17:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="QuatationRequest()[pri:3, instance:Test.Test@598067a5]" name="QuatationRequest" duration-ms="1657" started-at="2018-10-25T17:15:51Z" finished-at="2018-10-25T17:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuatationRequest -->
+        <test-method status="PASS" signature="CreateFinalExtentReport()[pri:0, instance:Test.Test@598067a5]" name="CreateFinalExtentReport" is-config="true" duration-ms="380" started-at="2018-10-25T17:15:53Z" finished-at="2018-10-25T17:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateFinalExtentReport -->
+      </class> <!-- Test.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
